@@ -1,0 +1,96 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 96,
+      "name": "Promiscuous"
+    },
+    {
+      "id": 66,
+      "name": "Toy"
+    },
+    {
+      "id": 87,
+      "name": "Selfie"
+    },
+    {
+      "id": 40,
+      "name": "Hd"
+    },
+    {
+      "id": 3,
+      "name": "Pure"
+    },
+    {
+      "id": 29,
+      "name": "Slim"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "kag-092",
+  "imdb_id": "kag-092",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "KAG-092 Natsuha",
+  "overview": "",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/kag-092/cover.jpg",
+  "production_companies": [
+    {
+      "id": "黒影",
+      "logo_path": "https://placehold.co/200",
+      "name": "黒影",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2020-08-31",
+  "revenue": 0,
+  "runtime": 56,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "KAG 092",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "%E9%BB%92%E5%BD%B1",
+        "known_for_department": "Directing",
+        "name": "黒影",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}
