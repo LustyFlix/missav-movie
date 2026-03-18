@@ -108,6 +108,7 @@ const SITEMAP_URLS = [
   'https://missav.ws/sitemap_items_100.xml'
 ];
 
+
 const POSTS_DIR = path.join(__dirname, "../data/posts");
 const INDEX_DIR = path.join(__dirname, "../data/index");
 const META_DIR = path.join(__dirname, "../data/meta");
@@ -288,7 +289,7 @@ async function downloadPost(url) {
     ).first();
     if (makerDiv.length) {
       makerDiv.find("a").each((_, link) => {
-        const name = $(link).attr("href")?.split("/").pop(),
+        const name = $(link).attr("href")?.split("/").pop();
         productionCompanies.push({
           id: $(link).text().trim();
           logo_path: "https://placehold.co/200",
