@@ -215,6 +215,8 @@ async function downloadPost(url) {
     const pathname = new URL(url).pathname;
     const id = pathname.split("/").pop();
 
+    const keywords = [];
+
     const data = {
       adult: true,
       backdrop_path: null,
