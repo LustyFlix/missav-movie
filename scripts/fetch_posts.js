@@ -215,8 +215,6 @@ async function downloadPost(url) {
     const pathname = new URL(url).pathname;
     const id = pathname.split("/").pop();
 
-    const keywords = [];
-
     const data = {
       adult: true,
       backdrop_path: null,
@@ -244,7 +242,7 @@ async function downloadPost(url) {
       video: null,
       vote_average: 0,
       vote_count: 0,
-      sources: encryptedString ? [] : []
+      sources: encryptedString ? [] : [],
       keywords: { keywords: [{ id: null, name: null }] },
       credits: { cast, crew },
     };
