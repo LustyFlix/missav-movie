@@ -214,15 +214,17 @@ async function downloadPost(url) {
     const duration = $("meta[property='og:video:duration']").attr("content") || 0;
 
     // encrypted string
+
     let encryptedString = null;
-    $("script").each((i, el) => {
-      const content = $(el).html();
+    $("script").each((_, script) => {
+      const content = $(script).html();
       if (content && content.includes(".split('|')")) {
         const splitIndex = content.indexOf(".split('|')");
         const beforeSplit = content.substring(0, splitIndex);
         const lastQuote = beforeSplit.lastIndexOf("'");
         const firstQuote = beforeSplit.lastIndexOf("'", lastQuote - 1);
         encryptedString = beforeSplit.substring(firstQuote + 1, lastQuote);
+        return false; // ✅ break loop in cheerio
       }
     });
 
