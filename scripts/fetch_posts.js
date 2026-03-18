@@ -72,9 +72,9 @@ function getIndexFile(key) {
   return path.join(INDEX_DIR, key[0] + ".json");
 }
 
-function getMetaFile(key) {
-  return path.join(META_DIR, key[0] + ".json");
-}
+// function getMetaFile(key) {
+//   return path.join(META_DIR, key[0] + ".json");
+// }
 
 function slugFromUrl(url) {
   const clean = url.replace(/https?:\/\/[^\/]+\//, "").replace(/\/$/, "");
@@ -190,9 +190,9 @@ async function downloadPost(url) {
     ).first();
     if (makerDiv.length) {
       makerDiv.find("a").each((_, link) => {
-        const name = $(link).text().trim();
+        const name = $(link).attr("href")?.split("/").pop(),
         productionCompanies.push({
-          id: name,
+          id: $(link).text().trim();
           logo_path: "https://placehold.co/200",
           name: name,
           origin_country: "JP",
@@ -258,13 +258,13 @@ async function downloadPost(url) {
     idx[key] = relativePath;
     fs.writeFileSync(indexFile, JSON.stringify(idx));
 
-    const metaFile = getMetaFile(key);
-    let meta = {};
-    if (fs.existsSync(metaFile)) {
-      try { meta = JSON.parse(fs.readFileSync(metaFile)); } catch {}
-    }
-    meta[key] = { title: original_title, image: poster, path: relativePath };
-    fs.writeFileSync(metaFile, JSON.stringify(meta));
+    // const metaFile = getMetaFile(key);
+    // let meta = {};
+    // if (fs.existsSync(metaFile)) {
+    //   try { meta = JSON.parse(fs.readFileSync(metaFile)); } catch {}
+    // }
+    // meta[key] = { title: original_title, image: poster, path: relativePath };
+    // fs.writeFileSync(metaFile, JSON.stringify(meta));
 
     console.log("✅ Saved JSON:", key);
 
