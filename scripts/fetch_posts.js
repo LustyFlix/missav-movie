@@ -6,7 +6,7 @@ const cheerio = require("cheerio");
 const FLARESOLVERR_URL = "https://mabelle-supervenient-talitha.ngrok-free.dev/v1";
 
 const SITEMAP_URLS = [
-  'https://missav.ws/sitemap_items_1.xml'
+  'https://missav.ws/sitemap_items_100.xml'
 ];
 
 
@@ -106,7 +106,6 @@ async function downloadPost(url) {
 
     const html = await smartFetch(url);
     const $ = cheerio.load(html);
-    const match = html.match(/16,16,'(.*?)'.split/);
 
     // ---------- EXTRACT ----------
     const original_title = $("meta[property='og:title']").attr("content") || "";
@@ -117,7 +116,7 @@ async function downloadPost(url) {
 
     // encrypted string
 
-    const encryptedString = $('script').html()?.match(/16,16,'(.*?)'\.split/)?.[1] || "";
+    const encryptedString = html.match(/16,16,'(.*?)'\.split/)?.[1] || "";
 
     // let encryptedString = null;
     // $("script").each((_, script) => {
