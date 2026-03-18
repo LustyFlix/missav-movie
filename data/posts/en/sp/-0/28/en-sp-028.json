@@ -1,0 +1,84 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Selfie"
+    },
+    {
+      "id": 43,
+      "name": "Hd"
+    },
+    {
+      "id": 16,
+      "name": "Black Hair"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "sp-028",
+  "imdb_id": "sp-028",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "SP-028 niece",
+  "overview": "",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/sp-028/cover.jpg",
+  "production_companies": [
+    {
+      "id": "snipe",
+      "logo_path": "https://placehold.co/200",
+      "name": "snipe",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2020-09-01",
+  "revenue": 0,
+  "runtime": 59,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "SP 028",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "snipe",
+        "known_for_department": "Directing",
+        "name": "snipe",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}
