@@ -6,8 +6,7 @@ const cheerio = require("cheerio");
 const FLARESOLVERR_URL = "https://mabelle-supervenient-talitha.ngrok-free.dev/v1";
 
 const SITEMAP_URLS = [
-  'https://missav.ws/sitemap_items_1.xml',
-  'https://missav.ws/sitemap_items_2.xml'
+  'https://missav.ws/sitemap_items_1.xml'
 ];
 
 const POSTS_DIR = path.join(__dirname, "../data/posts");
