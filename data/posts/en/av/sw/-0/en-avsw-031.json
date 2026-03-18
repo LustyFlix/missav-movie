@@ -1,0 +1,102 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 92,
+      "name": "Mature Woman"
+    },
+    {
+      "id": 1,
+      "name": "Individual"
+    },
+    {
+      "id": 57,
+      "name": "4 Hours Or More"
+    },
+    {
+      "id": 35,
+      "name": "Actress Collection"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "avsw-031",
+  "imdb_id": "avsw-031",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "AVSW-031 The World of Nanako Mori - Mori Nanako",
+  "overview": "An erotic and cute popular actress, Nanako Mori's special video collection is now available! From the works released in the past, full of benefits, \"Waitress\", \"Race Queen\", \"Wife\", as well as leotards and transparent costumes that can not be seen anywhere else Nanako Mori Fans must-see footage carefully selected! Enjoy Nanako Mori's world full of charm!",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/avsw-031/cover.jpg",
+  "production_companies": [
+    {
+      "id": "AVS collector’s",
+      "logo_path": "https://placehold.co/200",
+      "name": "AVS%20collector%E2%80%99s",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-12\n                            1 week ago\n                        \n                            3 weeks ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        ",
+  "revenue": 0,
+  "runtime": 244,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "AVSW 031",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Mori Nanako",
+        "known_for_department": "Acting",
+        "name": "Mori Nanako",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "AVS%20collector%E2%80%99s",
+        "known_for_department": "Directing",
+        "name": "AVS collector’s",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

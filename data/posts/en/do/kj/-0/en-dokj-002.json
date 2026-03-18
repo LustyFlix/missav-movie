@@ -1,0 +1,118 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 5,
+      "name": "Humiliation"
+    },
+    {
+      "id": 99,
+      "name": "Shame"
+    },
+    {
+      "id": 58,
+      "name": "Individual"
+    },
+    {
+      "id": 46,
+      "name": "Cosplay"
+    },
+    {
+      "id": 79,
+      "name": "Erotic Photo"
+    },
+    {
+      "id": 23,
+      "name": "Tied Up"
+    },
+    {
+      "id": 48,
+      "name": "Ultra Slim Pixelated"
+    },
+    {
+      "id": 1,
+      "name": "Hd"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "dokj-002",
+  "imdb_id": "dokj-002",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "DOKJ-002 Woman playing Ecstatic Hell -Woman on the Execution Platform- Episode 2: Fall of a Wearing Erotic Woman Rina Asuka - Asuka Rina",
+  "overview": "",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/dokj-002/cover.jpg",
+  "production_companies": [
+    {
+      "id": "BabyEntertainment",
+      "logo_path": "https://placehold.co/200",
+      "name": "BabyEntertainment",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-18",
+  "revenue": 0,
+  "runtime": 156,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "DOKJ 002",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Asuka Rina",
+        "known_for_department": "Acting",
+        "name": "Asuka Rina",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "BabyEntertainment",
+        "known_for_department": "Directing",
+        "name": "BabyEntertainment",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

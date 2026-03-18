@@ -1,0 +1,80 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 29,
+      "name": "Humiliation"
+    },
+    {
+      "id": 96,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "ktdv-311",
+  "imdb_id": "ktdv-311",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "KTDV-311 8 Local Women Taken By Perverts In Kabukicho",
+  "overview": "Women from rural areas who get lost in the streets of downtown. Day and night, the city is filled with men's desires. The men's purpose was not money, just to perform crazy pleasure acts with women. Put on a skillful mouthpiece, the woman was taken away and fell prey to the men... A woman's scream echoing in vain in the big city! ! What will happen to these women...? ?",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/ktdv-311/cover.jpg",
+  "production_companies": [
+    {
+      "id": "KTファクトリー",
+      "logo_path": "https://placehold.co/200",
+      "name": "KT%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-23",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "KTDV 311",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "KT%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+        "known_for_department": "Directing",
+        "name": "KTファクトリー",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

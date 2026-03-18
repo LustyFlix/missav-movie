@@ -1,0 +1,96 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 73,
+      "name": "Female Teacher"
+    },
+    {
+      "id": 2,
+      "name": "High School Girl"
+    },
+    {
+      "id": 74,
+      "name": "Lesbian"
+    },
+    {
+      "id": 52,
+      "name": "Ordinary Person"
+    },
+    {
+      "id": 29,
+      "name": "Toy"
+    },
+    {
+      "id": 89,
+      "name": "Lesbian Kiss"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "rs-037",
+  "imdb_id": "rs-037",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "RS-037 Girls Talk 037 ○When a school teacher loves a female student...",
+  "overview": "Ruri is a physical education teacher at a private school and advisor to the rhythmic gymnastics club. A member of the rhythmic gymnastics club she's dating tells her to break up with him...Ruri agrees to break up with her, but makes an exchange. The condition is that Maika, who recently transferred to another school, must join the rhythmic gymnastics club. Maika joins the rhythmic gymnastics club and Ruri's private lessons begin. ... Maika thinks that Ruri is a kind and enthusiastic teacher, but at the same time she admires Ruri for her beauty and style. Maika had never made any friends because she had to change schools a lot. Ruri treats me kindly, and I begin to look for something that goes beyond the relationship between teacher and student... [*There is some disturbance in the image and sound]",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/rs-037/cover.jpg",
+  "production_companies": [
+    {
+      "id": "プラム",
+      "logo_path": "https://placehold.co/200",
+      "name": "%E3%83%97%E3%83%A9%E3%83%A0",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-26",
+  "revenue": 0,
+  "runtime": 51,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "RS 037",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "%E3%83%97%E3%83%A9%E3%83%A0",
+        "known_for_department": "Directing",
+        "name": "プラム",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

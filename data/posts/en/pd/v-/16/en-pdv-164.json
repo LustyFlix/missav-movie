@@ -1,0 +1,185 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 58,
+      "name": "Collection"
+    },
+    {
+      "id": 28,
+      "name": "Hd"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "pdv-164",
+  "imdb_id": "pdv-164",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "PDV-164 The Les ● Pu Mad - Yuma Asami",
+  "overview": "The devil series \"Re-Pu Madness\" that started in 1985 and continued to shake the actress because it was too stupid. The legendary series, which has become unsustainable due to its emphasis on reality, made a big comeback in March last year, and the \"Ai Narita\" released this month has already caused the 11th casualty! This time, which has been very popular, we will deliver a omnibus of the tragedy for nine people after the series was revived. Yuma Asami, Tsukasa Aoi, Nanami Kawakami, Yui Tatsumi, Beni Itoh, Azumi Kinosita, Hibiki Otsuki ... They have no escape anymore!",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/pdv-164/cover.jpg",
+  "production_companies": [
+    {
+      "id": "Alice Japan",
+      "logo_path": "https://placehold.co/200",
+      "name": "Alice%20Japan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-23",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "PDV 164",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Yuma Asami",
+        "known_for_department": "Acting",
+        "name": "Yuma Asami",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Tatsumi Yui",
+        "known_for_department": "Acting",
+        "name": "Tatsumi Yui",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Akari Asahina",
+        "known_for_department": "Acting",
+        "name": "Akari Asahina",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Hibiki Otsuki",
+        "known_for_department": "Acting",
+        "name": "Hibiki Otsuki",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Tsukasa Aoi",
+        "known_for_department": "Acting",
+        "name": "Tsukasa Aoi",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Kawakami Nanami",
+        "known_for_department": "Acting",
+        "name": "Kawakami Nanami",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Kinoshita Azumi",
+        "known_for_department": "Acting",
+        "name": "Kinoshita Azumi",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Ito Beni",
+        "known_for_department": "Acting",
+        "name": "Ito Beni",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "Alice%20Japan",
+        "known_for_department": "Directing",
+        "name": "Alice Japan",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

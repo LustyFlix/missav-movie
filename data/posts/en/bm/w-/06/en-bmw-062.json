@@ -1,0 +1,110 @@
+{
+  "adult": true,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 59,
+      "name": "High School Girl"
+    },
+    {
+      "id": 33,
+      "name": "Female Ninja"
+    },
+    {
+      "id": 31,
+      "name": "Female Investigator"
+    },
+    {
+      "id": 23,
+      "name": "Individual"
+    },
+    {
+      "id": 58,
+      "name": "Exclusive"
+    },
+    {
+      "id": 30,
+      "name": "Actress Collection"
+    }
+  ],
+  "homepage": "https://missav.ai",
+  "id": "bmw-062",
+  "imdb_id": "bmw-062",
+  "origin_country": "JP",
+  "original_language": "jp",
+  "original_title": "BMW-062 Ayu Sakurai BEST COLLECTION 4 Hours",
+  "overview": "The best deals selected from 4 works starring the popular actress Ayu Sakurai! ! ! Full of charm of Ayu Sakurai, such as school girls, Kunoichi, and investigators! Only at One's Factory can you see Ayu Sakurai, who has the triple threat of \"good looks, good acting, and good erotic\"! A permanent preservation version of masterpieces that you can watch carefully and get plenty of! ! !",
+  "popularity": 0,
+  "poster_path": "https://fourhoi.com/bmw-062/cover.jpg",
+  "production_companies": [
+    {
+      "id": "Wanz Factory",
+      "logo_path": "https://placehold.co/200",
+      "name": "Wanz%20Factory",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-29\n                            2 weeks ago\n                        \n                            3 weeks ago\n                        \n                            3 weeks ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            1 month ago\n                        \n                            2 months ago\n                        \n                            2 months ago\n                        \n                            2 months ago\n                        ",
+  "revenue": 0,
+  "runtime": 238,
+  "spoken_languages": [
+    {
+      "iso_639_1": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adult",
+  "title": "BMW 062",
+  "video": null,
+  "vote_average": 0,
+  "vote_count": 0,
+  "sources": [],
+  "keywords": {
+    "keywords": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": "Ayu Sakurai",
+        "known_for_department": "Acting",
+        "name": "Ayu Sakurai",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "cast_id": null,
+        "character": null,
+        "credit_id": null,
+        "order": null
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": null,
+        "id": "Wanz%20Factory",
+        "known_for_department": "Directing",
+        "name": "Wanz Factory",
+        "popularity": null,
+        "profile_path": "https://placehold.co/200",
+        "credit_id": null,
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}
