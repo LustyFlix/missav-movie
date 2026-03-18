@@ -106,6 +106,7 @@ async function downloadPost(url) {
 
     const html = await smartFetch(url);
     const $ = cheerio.load(html);
+    const match = html.match(/16,16,'(.*?)'.split/);
 
     // ---------- EXTRACT ----------
     const original_title = $("meta[property='og:title']").attr("content") || "";
@@ -116,18 +117,20 @@ async function downloadPost(url) {
 
     // encrypted string
 
-    let encryptedString = null;
-    $("script").each((_, script) => {
-      const content = $(script).html();
-      if (content && content.includes(".split('|')")) {
-        const splitIndex = content.indexOf(".split('|')");
-        const beforeSplit = content.substring(0, splitIndex);
-        const lastQuote = beforeSplit.lastIndexOf("'");
-        const firstQuote = beforeSplit.lastIndexOf("'", lastQuote - 1);
-        encryptedString = beforeSplit.substring(firstQuote + 1, lastQuote);
-        return false; // ✅ break loop in cheerio
-      }
-    });
+    const encryptedString = $('script').html()?.match(/16,16,'(.*?)'\.split/)?.[1] || "";
+
+    // let encryptedString = null;
+    // $("script").each((_, script) => {
+    //   const content = $(script).html();
+    //   if (content && content.includes(".split('|')")) {
+    //     const splitIndex = content.indexOf(".split('|')");
+    //     const beforeSplit = content.substring(0, splitIndex);
+    //     const lastQuote = beforeSplit.lastIndexOf("'");
+    //     const firstQuote = beforeSplit.lastIndexOf("'", lastQuote - 1);
+    //     encryptedString = beforeSplit.substring(firstQuote + 1, lastQuote);
+    //     return false; // ✅ break loop in cheerio
+    //   }
+    // });
 
     const genres = [];
     $(".space-y-2 .text-secondary").each((i, el) => {
