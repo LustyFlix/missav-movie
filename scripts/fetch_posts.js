@@ -291,7 +291,7 @@ async function downloadPost(url) {
       makerDiv.find("a").each((_, link) => {
         const name = $(link).attr("href")?.split("/").pop();
         productionCompanies.push({
-          id: $(link).text().trim();
+          id: $(link).text().trim(),
           logo_path: "https://placehold.co/200",
           name: name,
           origin_country: "JP",
